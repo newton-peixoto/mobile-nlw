@@ -1,7 +1,7 @@
 <div align="center" style="display:flex; justify-content:between">
-   <a target="_blank" rel="Ecoleta"><img src=".github/home.jpeg" width="100%" style="max-width:100%;margin-top:30px;"></a>
-  <a target="_blank" rel="Ecoleta"><img src=".github/point.jpeg" width="100%" style="max-width:100%;margin-top:30px;"></a>
-    <a target="_blank" rel="Ecoleta"><img src=".github/detail.jpeg" width="100%" style="max-width:100%;margin-top:30px;"></a>
+   <a target="_blank" rel="Ecoleta"><img src=".github/home.jpeg" width="20%"  style="max-width:100%;margin-top:30px;"></a>
+  <a target="_blank" rel="Ecoleta"><img src=".github/point.jpeg" width="20%"  style="max-width:100%;margin-top:30px;"></a>
+    <a target="_blank" rel="Ecoleta"><img src=".github/detail.jpeg" width="20%" style="max-width:100%;margin-top:30px;"></a>
       <br>
 </div>
 
