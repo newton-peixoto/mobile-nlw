@@ -14,9 +14,9 @@
 
 ## <a id="features"></a>♻️ Features
 
-✅ Register your company's waste collection point.<br>
+✅ Check points next to you.<br>
 
-✅ The company share the default items that can be collected.<br>
+✅ See information about a specific point (whatsapp, email).<br>
 
 ## <a id="installation"></a> 🚧 Installation
 
